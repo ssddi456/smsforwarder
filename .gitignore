@@ -1,0 +1,14 @@
+.DS_Store
+.idea/
+*.iml
+
+**/.gradle/
+**/build/
+**/local.properties
+
+messages/keystore.properties
+smsforwarder/keystore/
+
+artifacts/*
+!artifacts/.gitkeep
+
